@@ -1,1 +1,3 @@
-<Solution />
+<Solution>
+  <Project Path="01/01.fsproj" />
+</Solution>
