@@ -3,4 +3,5 @@
   <Project Path="02/02.fsproj" />
   <Project Path="03/03.fsproj" />
   <Project Path="04/04.fsproj" />
+  <Project Path="05/05.fsproj" />
 </Solution>
